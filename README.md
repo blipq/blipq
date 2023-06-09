@@ -12,13 +12,13 @@
         <td align="center">Database</td>
     </tr>
     <tr>
-        <td>         
+        <td align="center">         
             <img align="right" width="30px" height="30px" src="https://cdn.simpleicons.org/javascript/#F7DF1E">
             <img align="right" width="30px" height="30px" src="https://cdn.simpleicons.org/cplusplus/#00599C"> 
             <img align="right" width="30px" height="30px" src="https://cdn.simpleicons.org/python/#3776AB">
             <img align="right" width="30px" height="30px" src="https://cdn.simpleicons.org/jquery/"> 
         </td>
-        <td> 
+        <td align="center"> 
             <img align="right" width="30px" height="30px" src="https://cdn.simpleicons.org/mongodb/">
             <img align="right" width="30px" height="30px" src="https://cdn.simpleicons.org/mysql/">
             <img align="right" width="30px" height="30px" src="https://cdn.simpleicons.org/mariadb/">
