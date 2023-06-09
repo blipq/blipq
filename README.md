@@ -16,7 +16,6 @@
             <img align="right" width="30px" height="30px" src="https://cdn.simpleicons.org/javascript/#F7DF1E">
             <img align="right" width="30px" height="30px" src="https://cdn.simpleicons.org/cplusplus/#00599C"> 
             <img align="right" width="30px" height="30px" src="https://cdn.simpleicons.org/python/#3776AB">
-            <img align="right" width="30px" height="30px" src="https://cdn.simpleicons.org/preact/">
             <img align="right" width="30px" height="30px" src="https://cdn.simpleicons.org/jquery/"> 
         </td>
         <td> 
