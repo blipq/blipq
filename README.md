@@ -43,7 +43,7 @@
      </tr>
 </table>
 <p align="center">
- &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blipq&show_icons=true&theme=dark&locale=en" alt="blipq" />
+ &nbsp;
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blipq&theme=dark" alt="blipq" />
  </p>
 </div>
